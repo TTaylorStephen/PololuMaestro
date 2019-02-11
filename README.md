@@ -9,6 +9,9 @@
 
 **2. After download you can set default parameters for the board in channel settings.**
 
+
+**Tips:**
+
   -board must be in dual port mode for use.
   
   -full range of pulses for position are from 64-2567, where 2567 correspond to a value of 0x07 or 1 byte. 
