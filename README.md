@@ -8,7 +8,6 @@ Intructions for setting up Maestro board on Linux:
 
 Download the file and uzip using “tar -xzvf” folloed by the name of the file. Follow the instruction in the README.txt to complete install.
 
-
 2. After download you can set default parameters for the board in channel settings.
 - board must be in dual port mode for use.
 - full range of pulses for position are from 64-2567, where 2567 correspond to a value of 0x07 or 1 byte. 
