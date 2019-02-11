@@ -2,7 +2,7 @@
 
 **Intructions for setting up Maestro board on Linux:**
 
-**1. To set certain defaults, you must download the Maestro Control Center and the Maestro command-line utility (UscCmd). These can be found here :**
+**1. To set certain defaults, you must download the Maestro Control Center and the Maestro command-line utility (UscCmd).** These can be found here :
   [https://www.pololu.com/file/download/maestro-linux-150116.tar.gz?file_id=0J315]
   
   -Download the file and uzip using “tar -xzvf” followed by the name of the file. Follow the instruction in the README.txt to complete install.
