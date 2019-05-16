@@ -102,7 +102,8 @@ maestro::~maestro(){
 printf("Parameters Set. \n");
 }
 
-	
+//sample function usage 
+
 int main(){
 
 
